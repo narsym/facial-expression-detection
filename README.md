@@ -10,7 +10,7 @@ It has 35,000 images for training, testing and validation.
 
 The model has achieved 95% on training set and 66% on test set.
 
-The saved model is final_model.h5 file. 
+The saved model is in final_model.h5 file. 
 
 # How to use the model:
 
@@ -24,7 +24,7 @@ resize the image the to **(48, 48, 3)** and use following command
 
 **model.predict([imgarr])**
 
-**Note: face from the image should be cropped and is sent as input as it is trained those images.**
+**Note: face from the image should be cropped and is sent as input to the model.**
 
 # Details about the How the project is done:
 
