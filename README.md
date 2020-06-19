@@ -26,5 +26,11 @@ resize the image the to **(48, 48, 3)** and use following command
 
 **Note: face from the image should be cropped and is sent as input as it is trained those images.**
 
+# Details about the How the project is done:
+
+The model is custom built. 
+
+For more details about the project refer the Face expression recognition notebook.
+
 **Happy Learning**
 
